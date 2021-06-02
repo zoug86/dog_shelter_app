@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dog_shelter_app/static/css/main.4ccbff7d.chunk.css",
+    "main.js": "/dog_shelter_app/static/js/main.79c39277.chunk.js",
+    "main.js.map": "/dog_shelter_app/static/js/main.79c39277.chunk.js.map",
+    "runtime-main.js": "/dog_shelter_app/static/js/runtime-main.888269c3.js",
+    "runtime-main.js.map": "/dog_shelter_app/static/js/runtime-main.888269c3.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/dog_shelter_app/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.26b2f0e9.chunk.js": "/dog_shelter_app/static/js/2.26b2f0e9.chunk.js",
+    "static/js/2.26b2f0e9.chunk.js.map": "/dog_shelter_app/static/js/2.26b2f0e9.chunk.js.map",
+    "static/js/3.a35de4a2.chunk.js": "/dog_shelter_app/static/js/3.a35de4a2.chunk.js",
+    "static/js/3.a35de4a2.chunk.js.map": "/dog_shelter_app/static/js/3.a35de4a2.chunk.js.map",
+    "index.html": "/dog_shelter_app/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/dog_shelter_app/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.4ccbff7d.chunk.css.map": "/dog_shelter_app/static/css/main.4ccbff7d.chunk.css.map",
+    "static/js/2.26b2f0e9.chunk.js.LICENSE.txt": "/dog_shelter_app/static/js/2.26b2f0e9.chunk.js.LICENSE.txt",
+    "static/media/hazel.56f12732.jpg": "/dog_shelter_app/static/media/hazel.56f12732.jpg",
+    "static/media/tubby.9c06bf82.jpg": "/dog_shelter_app/static/media/tubby.9c06bf82.jpg",
+    "static/media/whiskey.7650f3f2.jpg": "/dog_shelter_app/static/media/whiskey.7650f3f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.888269c3.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.26b2f0e9.chunk.js",
+    "static/css/main.4ccbff7d.chunk.css",
+    "static/js/main.79c39277.chunk.js"
+  ]
+}
